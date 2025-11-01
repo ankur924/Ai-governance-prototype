@@ -1,0 +1,72 @@
+{
+  "infrastructure": [
+    "How to report potholes in my area?",
+    "When will the broken streetlights be fixed?",
+    "Who is responsible for repairing damaged footpaths?",
+    "How to file a complaint about road conditions?",
+    "What department handles street maintenance issues?"
+  ],
+  "water_sanitation": [
+    "How to report water leakage in my area?",
+    "Who to contact for sewer overflow problems?",
+    "When will garbage collection resume in my locality?",
+    "How to file a complaint about dirty water supply?",
+    "What department handles sanitation issues?"
+  ],
+  "electricity_power": [
+    "How to report frequent power cuts?",
+    "Who to contact about high electricity bills?",
+    "How to get a faulty meter replaced?",
+    "When will power be restored in my area?",
+    "How to report unsafe electrical connections?"
+  ],
+  "health_safety": [
+    "How to report unhygienic conditions in hospitals?",
+    "Who handles stray dog issues in residential areas?",
+    "How to file a complaint about poor sanitation?",
+    "What department is responsible for public health?",
+    "How to request emergency medical services?"
+  ],
+  "education_government": [
+    "How to apply for school admission?",
+    "What are the best colleges for engineering?",
+    "How to get a ration card issued?",
+    "When will certificates be issued by the revenue department?",
+    "How to report shortage of teachers in schools?"
+  ],
+  "transport_traffic": [
+    "How to report traffic congestion issues?",
+    "Who to contact about illegal parking?",
+    "How to report broken traffic signals?",
+    "What department handles public transport problems?",
+    "How to file a complaint about reckless driving?"
+  ],
+  "law_order": [
+    "How to report theft in my neighborhood?",
+    "Who to contact about harassment issues?",
+    "How to file a complaint about illegal construction?",
+    "What department handles public nuisance complaints?",
+    "How to register an FIR at the police station?"
+  ],
+  "environmental": [
+    "How to report air pollution in my area?",
+    "Who to contact about illegal tree cutting?",
+    "How to file a complaint about waste dumping?",
+    "What department handles noise pollution issues?",
+    "How to report water pollution in local water bodies?"
+  ],
+  "corruption_delays": [
+    "How to report corruption in government offices?",
+    "Who to contact about administrative delays?",
+    "How to file a complaint about bribery demands?",
+    "What department handles misuse of power by officials?",
+    "How to track status of pending files in government departments?"
+  ],
+  "digital_technical": [
+    "How to report government website errors?",
+    "Who to contact when online complaint portal is not working?",
+    "How to resolve login issues with government portals?",
+    "What department handles e-governance technical problems?",
+    "How to get help with online service applications?"
+  ]
+}
