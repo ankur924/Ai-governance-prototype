@@ -1,7 +1,7 @@
 flask==2.3.3
 flask-cors==3.0.10
 nltk==3.8.1
-torch==2.2.0
+torch>=2.2.0
 scikit-learn==1.4.2
 sentence-transformers==2.2.2
 huggingface-hub==0.12.0
