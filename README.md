@@ -1,5 +1,5 @@
 # Indian Government Query Classifier
-
+## Prototype link - https://nirakshak-amber.vercel.app/
 This application classifies user queries into different Indian government departments/categories:
 - Education
 - Highway
