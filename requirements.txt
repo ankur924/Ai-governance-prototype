@@ -1,9 +1,9 @@
 flask==2.3.3
 flask-cors==3.0.10
 nltk==3.8.1
-torch==2.7.1+cpu
+torch==2.7.0+cpu
 torchvision==0.22.0+cpu
-torchaudio==2.7.1+cpu
+torchaudio==2.7.0+cpu
 scikit-learn==1.6.0
 sentence-transformers==2.2.2
 transformers==4.36.2
