@@ -70,6 +70,7 @@ def classify():
 
 
 if __name__ == "__main__":
-    print("🚀 Running on http://127.0.0.1:5000")
+    print("🚀 Server starting...")
     load_or_init_classifier()
-    app.run(debug=True, port=5000)
+    port = int(os.environ.get("PORT", 5000))  # Render sets PORT automatically
+    app.run(host="0.0.0.0", port=port)
